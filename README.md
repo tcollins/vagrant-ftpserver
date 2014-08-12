@@ -1,5 +1,5 @@
 ## Vagrant file for a FTP Server (vsftpd)
--------
+
 
  - ssh in using ```vagrant ssh``` 
  
